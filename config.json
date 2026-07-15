@@ -1,8 +1,8 @@
 {
-  "configVersion":4,
+  "configVersion":5,
 
   "server": {
-    "baseUrl": "https://proposed-soil-complex-sam.trycloudflare.com",
+    "baseUrl": "https://containers-firms-blend-aka.trycloudflare.com",
     "apiVersion": "v1"
   },
 
