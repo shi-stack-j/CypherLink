@@ -1,0 +1,37 @@
+{
+  "configVersion": 1,
+
+  "app": {
+    "name": "CypherLink",
+    "packageName": "com.gangwar.cypherlink",
+
+    "latestVersionName": "1.0.0",
+    "latestVersionCode": 1,
+
+    "minimumSupportedVersionCode": 1,
+
+    "forceUpdate": false,
+
+    "apkUrl": "https://yourdomain.com/downloads/cypherlink-v1.0.0.apk",
+
+    "apkSize": "4.8 MB",
+
+    "releaseDate": "2026-07-17",
+
+    "enabled": true
+  },
+
+  "updateDialog": {
+    "title": "New Update Available",
+    "message": "A newer version of CypherLink is available with improvements and bug fixes.",
+    "positiveButton": "Update Now",
+    "negativeButton": "Later"
+  },
+
+  "releaseNotes": [
+    "Improved application performance.",
+    "UI enhancements.",
+    "Bug fixes.",
+    "Security improvements."
+  ]
+}
