@@ -11,6 +11,8 @@
     "minimumSupportedVersionCode": 1,
 
     "forceUpdate": false,
+    
+    "website": "https://cypherlink.com",
 
     "apkUrl": "https://yourdomain.com/downloads/cypherlink-v1.0.0.apk",
 
