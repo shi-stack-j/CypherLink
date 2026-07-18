@@ -12,13 +12,13 @@
 
     "forceUpdate": false,
     
-    "website": "https://cypherlink.com",
+    "website": "https://cypherlinksecret.netlify.app/",
 
-    "apkUrl": "https://yourdomain.com/downloads/cypherlink-v1.0.0.apk",
+    "apkUrl": "https://cypherlinksecret.netlify.app/downloads/CypherLink-S-v1.0.0.apk",
 
-    "apkSize": "4.8 MB",
+    "apkSize": "7.4 MB",
 
-    "releaseDate": "2026-07-17",
+    "releaseDate": "2026-07-18",
 
     "enabled": true
   },
